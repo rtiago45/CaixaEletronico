@@ -1,0 +1,7 @@
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.AssemblyReference.cache
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Users\rtiag\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
